@@ -1,0 +1,45 @@
+{
+	"profile":{
+		"img":"rashi2.jpg",
+		"name":"Rashi khanna",
+		"roll":"123456",
+		"institute":"LADY SHIR RAM COLLEGE FOR WOMEN",
+        "place":"Delhi"
+      	       },
+      	"career":{
+      		"info":"to work in MNC"
+                 },
+      	"educatin details":[
+      		{
+      			"sno":"1",
+      			"degree":"BA in English",
+      			"institute":"LADY SHIR RAM COLLEGE FOR WOMEN",
+      			"yop":"2007"
+            },
+      		{
+      			"sno":"2",
+      			"degree":"inter",
+      			"institute":"narayana",
+      			"yop":"2005"
+      		},
+      		{
+      			"sno":"3",
+      			"degree":"ssc",
+      			"institute":"Dps",
+      			"yop":"2003"
+      		}
+
+                        	],
+      	"languages":[
+      		{
+      			"lang":"Hindi"
+      		},
+      		{
+      			"lang":"English"
+      		},
+      		{
+      			"lang":"Telugu"
+      		}
+      	             ],
+}
+

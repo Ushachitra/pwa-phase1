@@ -1,0 +1,14 @@
+body{
+	background:pink;
+}
+.left{
+	background:skyblue;
+	margin:3%;
+	border-radius:5%;
+	text-align:center;
+	box-shadow:4px 4px 4px 4px;
+	padding: 5%;
+	justify-content: space-around;
+	height:45%;
+	width:65%;
+}
